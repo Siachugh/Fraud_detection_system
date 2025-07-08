@@ -75,3 +75,8 @@ Fraud_Detection_System/
 ├── README.md # Project documentation (this file)
 
 
+## Acknowledgments
+Kaggle Credit Card Fraud Dataset
+Streamlit, Scikit-learn, Plotly, and Seaborn
+
+
